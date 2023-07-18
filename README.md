@@ -77,10 +77,9 @@ Aula do dia 18/07/2023
 
   <li>
     O Notepad++ é um editor de texto e código -fonte gratuito e de código aberto para uso com      o Microsoft Windows . Ele suporta edição com guias , que permite trabalhar com vários          arquivos abertos em uma única janela. O nome do produto vem do operador de incremento pós-     fixo C ; às vezes é referido como npp ou NPP. <br>
-    
-    Distribuído como software livre . Inicialmente, o projeto foi hospedado no       SourceForge.net , de onde foi baixado mais de 28 milhões de vezes e ganhou duas vezes o        SourceForge Community Choice Award de Melhor Ferramenta de Desenvolvedor.  O projeto foi       hospedado no TuxFamily  de 2010 a 2015; desde 2015, o Notepad++ está hospedado no GitHub .     Notepad++ usa o componente editor Scintilla .
+      Distribuído como software livre . Inicialmente, o projeto foi hospedado no       SourceForge.net , de onde foi baixado mais de 28 milhões de vezes e ganhou duas vezes o        SourceForge Community Choice Award de Melhor Ferramenta de Desenvolvedor.  O projeto foi       hospedado no TuxFamily  de 2010 a 2015; desde 2015, o Notepad++ está hospedado no GitHub .     Notepad++ usa o componente editor Scintilla .
     <br>
-    Suporta as linguagens com C, C++, Java, HTML, XML, PHP, JavaScript etc. Mas ele tambem     pode ser configurado para suportar outras linguagens e se a linguagem não for suportada, 
+    Suporta as linguagens com C, C++, Java, HTML, XML, PHP, JavaScript etc. Mas ele tambem     pode ser configurado para suportar outras linguagens e se a linguagem não for suportada
 pode ser personalizado para o programa reconhê-la, usando um sistema de definição de 
     linguagem.
     </li> <br>
