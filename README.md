@@ -1,16 +1,8 @@
 # Teste18.07.2023
 Aula do dia 18/07/2023
-<!DOCTYPE html>
-<html>
+IDES E EDITORES DE TEXTO 
+  História e Princípios
 
-<head>
-  <meta charset="utf-8">
-</head>
-
-<body>
-  <h1><font color=#0404B4>IDES E EDITORES DE TEXTO </font></h1>
-  <h2><font color=#0404B4> História e Princípios</font> </h2>
-  <p>
     Editor de texto é um programa de computador que permite criar e modificar arquivos digitais compostos exclusivamente por texto simples, comumente conhecidos como arquivos de texto ou “texto simples”. O programa lê o arquivo e interpreta os bytes lidos de acordo com o código de caracteres utilizado pelo editor. Geralmente é ASCII ou UTF-8 de 7 ou 8 bits, raramente EBCDIC.
   </p>
   <p>
